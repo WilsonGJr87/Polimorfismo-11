@@ -1,0 +1,9 @@
+1. Explique como a sobrescrita de métodos permite comportamentos diferentes para objetos da mesma hierarquia.
+
+A sobrescrita permite comportamentos diferentes para objetos na mesma hierarquia, pois ele escreve encima do método antigo, ele substitui o método que foi herdado.
+
+
+2. Descreva o mecanismo de sobrecarga de métodos e como ele difere da sobrescrita em termos de polimorfismo.
+
+O sistema de sobrecarga de métodos permite criar variações do mesmo método sem precisar criar um método novo.
+A sobrecarga se difere da sobrescrita em um quesito, sobrescrita você escreve encima de um método, sobrecarga você dá diversas execuções diferentes ao mesmo método conforme seus parâmetros.
